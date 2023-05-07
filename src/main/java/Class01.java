@@ -6,6 +6,7 @@ public class Class01 {
         //v3 çalışmalarıgit
         //v4
         //github değişiklikleri
+        //localden sevgilerle
 
 
 
